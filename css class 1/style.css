@@ -1,0 +1,35 @@
+body
+{
+    background-position: 2cm;
+    background-image: https://cdn.pixabay.com/photo/2014/09/14/18/04/dandelion-445228_640.jpg;
+} ;
+ }
+h1{
+    color: rgb(155, 4, 4);
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: blue;
+    color: rgb(142, 17, 180);
+}
+h3{
+    color: blue;
+}
+h4{
+    color: rgba(117, 60, 8, 0.681);
+}  
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    color: rgb(1, 40, 64);
+}   
+#para{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+    font-style: italic;
+    color: rgb(149, 3, 101);
+}
+.image-box{
+    border-color: rgb(18, 5, 5);
+    border:solid 1rem;
+}
